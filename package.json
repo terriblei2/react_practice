@@ -1,0 +1,9 @@
+{
+  "name": "my-practice",
+  "version": "1.0.0",
+  "description": "this package is my practice of react",
+  "main": "index.js",
+  "repository": "https://github.com/terriblei2/react_practice",
+  "author": "terriblei2",
+  "license": "MIT"
+}
